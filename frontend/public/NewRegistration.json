@@ -1,0 +1,245 @@
+[
+    {
+        "id": "1",
+        "name": "Amit Sharma",
+        "ph": "9876543210",
+        "age": "22",
+        "bloodGroup": "O+",
+        "height": "175 cm",
+        "weight": "70 kg"
+    },
+    {
+        "id": "2",
+        "name": "Neha Patel",
+        "ph": "8765432109",
+        "age": "21",
+        "bloodGroup": "A-",
+        "height": "165 cm",
+        "weight": "55 kg"
+    },
+    {
+        "id": "3",
+        "name": "Ravi Singh",
+        "ph": "7654321098",
+        "age": "23",
+        "bloodGroup": "B+",
+        "height": "180 cm",
+        "weight": "80 kg"
+    },
+    {
+        "id": "4",
+        "name": "Sonia Verma",
+        "ph": "6543210987",
+        "age": "22",
+        "bloodGroup": "AB-",
+        "height": "160 cm",
+        "weight": "60 kg"
+    },
+    {
+        "id": "5",
+        "name": "Rohan Gupta",
+        "ph": "5432109876",
+        "age": "24",
+        "bloodGroup": "O-",
+        "height": "170 cm",
+        "weight": "75 kg"
+    },
+    {
+        "id": "6",
+        "name": "Pooja Reddy",
+        "ph": "4321098765",
+        "age": "21",
+        "bloodGroup": "A+",
+        "height": "162 cm",
+        "weight": "58 kg"
+    },
+    {
+        "id": "7",
+        "name": "Karan Mehta",
+        "ph": "3210987654",
+        "age": "23",
+        "bloodGroup": "B-",
+        "height": "178 cm",
+        "weight": "77 kg"
+    },
+    {
+        "id": "8",
+        "name": "Anita Sharma",
+        "ph": "2109876543",
+        "age": "20",
+        "bloodGroup": "AB+",
+        "height": "167 cm",
+        "weight": "62 kg"
+    },
+    {
+        "id": "9",
+        "name": "Manish Kumar",
+        "ph": "1098765432",
+        "age": "24",
+        "bloodGroup": "O+",
+        "height": "172 cm",
+        "weight": "72 kg"
+    },
+    {
+        "id": "10",
+        "name": "Rita Joshi",
+        "ph": "0987654321",
+        "age": "25",
+        "bloodGroup": "A-",
+        "height": "168 cm",
+        "weight": "63 kg"
+    },
+    {
+        "id": "11",
+        "name": "Vikram Singh",
+        "ph": "9876509876",
+        "age": "22",
+        "bloodGroup": "B+",
+        "height": "180 cm",
+        "weight": "82 kg"
+    },
+    {
+        "id": "12",
+        "name": "Sita Rao",
+        "ph": "8765498765",
+        "age": "23",
+        "bloodGroup": "AB-",
+        "height": "163 cm",
+        "weight": "59 kg"
+    },
+    {
+        "id": "13",
+        "name": "Rajesh Patel",
+        "ph": "7654987654",
+        "age": "21",
+        "bloodGroup": "O-",
+        "height": "175 cm",
+        "weight": "74 kg"
+    },
+    {
+        "id": "14",
+        "name": "Priya Yadav",
+        "ph": "6549876543",
+        "age": "22",
+        "bloodGroup": "A+",
+        "height": "160 cm",
+        "weight": "55 kg"
+    },
+    {
+        "id": "15",
+        "name": "Deepak Singh",
+        "ph": "5438765432",
+        "age": "23",
+        "bloodGroup": "B-",
+        "height": "177 cm",
+        "weight": "78 kg"
+    },
+    {
+        "id": "16",
+        "name": "Meena Gupta",
+        "ph": "4327654321",
+        "age": "24",
+        "bloodGroup": "AB+",
+        "height": "165 cm",
+        "weight": "61 kg"
+    },
+    {
+        "id": "17",
+        "name": "Suresh Sharma",
+        "ph": "3216543210",
+        "age": "25",
+        "bloodGroup": "O+",
+        "height": "170 cm",
+        "weight": "76 kg"
+    },
+    {
+        "id": "18",
+        "name": "Swati Verma",
+        "ph": "2105432109",
+        "age": "22",
+        "bloodGroup": "A-",
+        "height": "162 cm",
+        "weight": "57 kg"
+    },
+    {
+        "id": "19",
+        "name": "Anil Kumar",
+        "ph": "1096543218",
+        "age": "23",
+        "bloodGroup": "B+",
+        "height": "180 cm",
+        "weight": "80 kg"
+    },
+    {
+        "id": "20",
+        "name": "Kavita Reddy",
+        "ph": "0986543217",
+        "age": "24",
+        "bloodGroup": "AB-",
+        "height": "164 cm",
+        "weight": "64 kg"
+    },
+    {
+        "id": "21",
+        "name": "Raj Kumar",
+        "ph": "9876432109",
+        "age": "21",
+        "bloodGroup": "O-",
+        "height": "175 cm",
+        "weight": "73 kg"
+    },
+    {
+        "id": "22",
+        "name": "Shalini Rao",
+        "ph": "8765321098",
+        "age": "22",
+        "bloodGroup": "A+",
+        "height": "160 cm",
+        "weight": "56 kg"
+    },
+    {
+        "id": "23",
+        "name": "Gaurav Mehta",
+        "ph": "7654210987",
+        "age": "23",
+        "bloodGroup": "B-",
+        "height": "178 cm",
+        "weight": "79 kg"
+    },
+    {
+        "id": "24",
+        "name": "Nisha Joshi",
+        "ph": "6543109876",
+        "age": "24",
+        "bloodGroup": "AB+",
+        "height": "163 cm",
+        "weight": "62 kg"
+    },
+    {
+        "id": "25",
+        "name": "Amit Kumar",
+        "ph": "5432109765",
+        "age": "25",
+        "bloodGroup": "O+",
+        "height": "170 cm",
+        "weight": "75 kg"
+    },
+    {
+        "id": "99",
+        "name": "FLANSH GAJBHIYE ",
+        "phone": "+91 8600390716",
+        "age": "21",
+        "bloodGroup": "A+",
+        "height": "6 feet",
+        "weight": "55"
+    },
+    {
+        "id": "json",
+        "name": "json",
+        "phone": "json",
+        "age": "json",
+        "bloodGroup": "json",
+        "height": "json",
+        "weight": "json"
+    }
+]
